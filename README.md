@@ -55,9 +55,9 @@ We evaluated these models using the precision, accuracy, recall, and f1 scores.
 
 * Tuned XGB Classifier: This is the best model, with training and testing set accuracy of 97.1% and 92.4% respectively. The following are a confusion matrix and ROC curve for the XGB classifier:
 
-![Confusion Matrix](<Confusion Matrix on Test Set.png>)
+![Confusion Matrix](<Images/Confusion Matrix on Test Set.png>)
 
-![ROC Curves](<ROC Curves on both sets.png>)
+![ROC Curves](<Images/ROC Curves on both sets.png>)
 
 ### Significant predictors for customer churn
 ***
@@ -65,7 +65,7 @@ These features include;
 Total day charge, Voice Mail Plan, Area Code 415 and Area Code 510, Customer Service Calls, Number of Voicemail Messages, International Plan, Total Day Minutes, Total International Calls, Total Evening Minutes and Total International Minutes. 
 The following is a graph representing the order of significance:
 
-![Top Significant Features](<TOP 10 FEATURES.png>)
+![Top Significant Features](<Images/TOP 10 FEATURES.png>)
 
 ### Conclusion and Recommendations
 ***
