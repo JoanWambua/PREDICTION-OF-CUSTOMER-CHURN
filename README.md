@@ -77,6 +77,7 @@ The XGB model is the best as it had the best performance on both the training an
 5. Educational campaigns are launched to inform customers about international plan benefits and usage tips.
 6. The predictive model is constantly updated based on new data to ensure its continued accuracy.
 7. A robust feedback mechanism is established to gather insights directly from customers.
+8. Collaborate with IT to seamlessly integrate the churn prediction model into customer management systems, ensuring accessibility and automatic application to new data.
 
 ## Necessary Links
 * Jupyter Notebook
