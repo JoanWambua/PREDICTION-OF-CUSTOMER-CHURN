@@ -80,6 +80,6 @@ The XGB model is the best as it had the best performance on both the training an
 
 ## Necessary Links
 * Jupyter Notebook
-[Notebook](<CUSTOMER CHURN ANALYSIS.ipynb>)
+
 * Presentation
 [PPT](<MANAGING CHURN - NON TECHNICAL PRESENTATION.pdf>)
