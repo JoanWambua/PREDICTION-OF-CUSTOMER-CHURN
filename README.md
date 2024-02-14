@@ -64,8 +64,7 @@ We evaluated these models using the precision, accuracy, recall, and f1 scores.
 These features include;
 Total day charge, Voice Mail Plan, Area Code 415 and Area Code 510, Customer Service Calls, Number of Voicemail Messages, International Plan, Total Day Minutes, Total International Calls, Total Evening Minutes and Total International Minutes. 
 The following is a graph representing the order of significance:
-
-![Top Significant Features](<Images/TOP 10 FEATURES.png>)
+![Top 10 Significant Features](<Images/TOP 10 FEATRUES.png>)
 
 ### Conclusion and Recommendations
 ***
